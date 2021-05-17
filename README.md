@@ -1,2 +1,2 @@
 # Coding-1-Final
- These are the starter files for S2021 Coding 1
+ Coding Final 1 website is about me. This website tells more about my hobbies
