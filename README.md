@@ -5,4 +5,5 @@ My website:
 -I made a simple logo to represent myself. MC which stands for Mitzi Castro.
 -I made a footer that shows the link of the website, the sports I play, and the places I want to go to.
 -In the about page, I made a two column section to separate the image to the text.
--
+-In the contacts page, I made a table for the list of contacts.
+-I added social media icons.
